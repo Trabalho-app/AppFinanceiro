@@ -1,2 +1,2 @@
 # AppFinanceiro
-Cria~
+Criação de um app financeiro
